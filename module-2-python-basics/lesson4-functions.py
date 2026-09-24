@@ -12,3 +12,11 @@ def akong_function():                  > this is a function name, contains lette
 akong_function()                       
 note!!!                                > you can use function to avoid repetitions
 
+
+key vocabulary:
+- function, reusable bloc of code that runs when called
+- parameter, is the variable name wrtten inside the parenthesis
+- argument, the actual value
+- return, result of a function sends back using "return" keywoard
+
+
