@@ -32,4 +32,15 @@ note!!!
 a function doesn't run just by defining it, you have to call it like greet_user("Miguel")
 
 
+Now with a return value:
+
+def add_numbers(a, b):
+    return a + b
+
+result = add_numbers(5, 3)
+print(result)                             > this prints 8
+
+
+
+
 
