@@ -1,7 +1,8 @@
+============================================================================
 Allam, Karl Andrei T. 
 BSIT 3A
 9/24/2026
-
+============================================================================
 
 A Python Function is a block of Code whch only run when it's called
 for example:
@@ -12,8 +13,9 @@ def akong_function():                  > this is a function name, contains lette
 akong_function()                       
 note!!!                                > you can use function to avoid repetitions
 
-
+============================================================================
 key vocabulary:
+============================================================================  
 - function, reusable bloc of code that runs when called
 - parameter, is the variable name wrtten inside the parenthesis
 - argument, the actual value
