@@ -14,7 +14,7 @@ note!!!                                > you can use function to avoid repetitio
 =========================================================================
 key vocabulary:
 =========================================================================  
-- function, reusable bloc of code that runs when called
+- function, reusable block of code that runs when called
 - parameter, is the variable name wrtten inside the parenthesis
 - argument, the actual value
 - return, result of a function sends back using "return" keywoard
