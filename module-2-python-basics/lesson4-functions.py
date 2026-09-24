@@ -20,3 +20,14 @@ key vocabulary:
 - return, result of a function sends back using "return" keywoard
 
 
+for example:
+
+def greet_user(name):                    > "name" here is the parameter
+    print("hello, " + name)
+
+greet_user("silencer")                      > "silencer" here is the argument
+note!!!
+a function doesn't run just by defining it, you have to call it like greet_user("Miguel")
+
+
+
