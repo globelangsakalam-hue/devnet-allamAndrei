@@ -41,6 +41,12 @@ result = add_numbers(5, 3)
 print(result)                             > this prints 8
 
 
+note!!!
+"return" gives the value back so you can store it in a variable (like "result")
+it's different from print(), because print() just shows it on screen, it doesn't give it back to use later
 
+
+mistake i made:
+calling functions so nothing is printed (like bruh?)
 
 
