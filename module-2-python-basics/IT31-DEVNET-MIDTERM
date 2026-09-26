@@ -1,0 +1,26 @@
+"""
+Midterm Practical Exam — Network Device Inventory Tool
+Student: Allam, Andrei
+""""
+
+
+
+devices = []
+
+def display_menu():
+
+    print ("=== Network Device Inventory ===")
+    print("1. Add a device", 
+          "2. View all devices", 
+          "3. Count active vs inactive devices", 
+          "4. Find a device by name", 
+          "5. Exit")
+display_menu()
+
+
+
+
+
+
+def add_device(device_list):
+
