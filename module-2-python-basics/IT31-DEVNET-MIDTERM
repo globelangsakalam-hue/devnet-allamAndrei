@@ -18,20 +18,20 @@ def display_menu():
 display_menu()
 
 
-
 def add_device(device_list):
     dev = input("Enter your device name: ")
     print(f"now set your ip & Status:")  
     dev = input("IP Address: ")
     print(f"now, is it active or inactive?")
 
-
 add_device(input)
 
+def view_device(device_list):
 
-view_devices(device_list):
-    list("devices"):
-view_devices()
+    devices = []
+    for a in devices:
+    print(a)
+
 
     
 
