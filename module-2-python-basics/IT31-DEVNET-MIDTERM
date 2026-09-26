@@ -6,13 +6,17 @@ Student: Allam, Andrei
 devices = []
 
 def display_menu():
-
-    print("1. Add a device", 
+    
+    print(" === Network Device Inventoy ===")
+    print(
+          "1. Add a device", 
           "2. View all devices", 
           "3. Count active vs inactive devices", 
           "4. Find a device by name", 
-          "5. Exit")
+          "5. Exit", 
+          "Choose an option:")
 display_menu()
+
 
 
 def add_device(device_list):
@@ -21,7 +25,13 @@ def add_device(device_list):
     dev = input("IP Address: ")
     print(f"now, is it active or inactive?")
 
-    
 
 add_device(input)
+
+
+view_devices(device_list):
+    list("devices"):
+view_devices()
+
+    
 
