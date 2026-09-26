@@ -23,14 +23,24 @@ def add_device(device_list):
     print(f"now set your ip & Status:")  
     dev = input("IP Address: ")
     print(f"now, is it active or inactive?")
+    dev = input("")
 
 add_device(input)
 
-def view_device(device_list):
 
-    devices = []
-    for a in devices:
-    print(a)
+
+def view_devices(device_list):
+
+for devices in list
+    print(f"Here are your device{devices}.")
+        if list == devices:
+            print(f"device found!{device}    
+    break
+
+else: 
+print(f"device not found{device]")
+
+
 
 
     
